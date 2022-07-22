@@ -1,1 +1,1 @@
-Working code isn't enough.
+Creating cool stuff with Clojure.
