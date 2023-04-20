@@ -1,1 +1,1 @@
-Creating cool stuff with Clojure.
+Hi, 👋.
