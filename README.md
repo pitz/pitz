@@ -1,1 +1,1 @@
-Oi, como vai você? 
+Oi.
